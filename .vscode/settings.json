@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "ctype.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "ssl.h": "c",
+        "stdarg.h": "c",
+        "bio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
